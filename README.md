@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Valentino 👋
 
-<!--
-**Valentino-git2305/Valentino-git2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Informática en la Universidad de Mendoza.
+Hago landing pages y webs para clientes, y automatizo tareas con Claude Code.
 
-Here are some ideas to get you started:
+### 🔧 Con qué trabajo
+Python · HTML/CSS/JS · MongoDB · Figma · Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+- **[claude-skills](https://github.com/Valentino-git2305/claude-skills)**: skills en español para Claude Code
+- **[Web estudio de arquitectos](https://web-estudio-arq.vercel.app)**: sitio para cliente real
+
+### 📫 Contacto
+totomolinelli@gmail.com · [Fiverr](https://www.fiverr.com/valentinomoli)
